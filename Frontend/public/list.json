@@ -1,0 +1,109 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"The Mystery of Midnight Hollow",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718900396~exp=1718903996~hmac=3df7bc6a0ed808ec9ca95249950dc61961e500acc676e8c6d366976f746f95c0&w=740"
+    },
+
+    {
+        "id":2,
+        "name":"Novel",
+        "title":"Pride and Prejudice by Jane Austen",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718900396~exp=1718903996~hmac=3df7bc6a0ed808ec9ca95249950dc61961e500acc676e8c6d366976f746f95c0&w=740"
+    },
+
+    {
+        "id":3,
+        "name":"Story Book",
+        "title":"The Mystery of Midnight Hollow",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718900396~exp=1718903996~hmac=3df7bc6a0ed808ec9ca95249950dc61961e500acc676e8c6d366976f746f95c0&w=740"
+    },
+
+    {
+        "id":4,
+        "name":"Biography",
+        "title":"The Legacy of Abdul Kalam: A Biography",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718900396~exp=1718903996~hmac=3df7bc6a0ed808ec9ca95249950dc61961e500acc676e8c6d366976f746f95c0&w=740"
+    },
+
+    {
+        "id":5,
+        "name":"Story Book",
+        "title":"Legends of the Moonlit Grove",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718900396~exp=1718903996~hmac=3df7bc6a0ed808ec9ca95249950dc61961e500acc676e8c6d366976f746f95c0&w=740"
+    },
+
+    {
+        "id":6,
+        "name":"Psychology",
+        "title":"Psychology: Understanding the Human Mind",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718900396~exp=1718903996~hmac=3df7bc6a0ed808ec9ca95249950dc61961e500acc676e8c6d366976f746f95c0&w=740"
+    },
+
+    {
+        "id":7,
+        "name":"Comedy",
+        "title":"Comedy the world is fun",
+        "price":200,
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718900396~exp=1718903996~hmac=3df7bc6a0ed808ec9ca95249950dc61961e500acc676e8c6d366976f746f95c0&w=740"
+    },
+
+    {
+        "id":8,
+        "name":"Sports",
+        "title":"Play it keeps you healthy",
+        "price":450,
+        "category":"Sports",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718900396~exp=1718903996~hmac=3df7bc6a0ed808ec9ca95249950dc61961e500acc676e8c6d366976f746f95c0&w=740"
+    },
+
+    {
+        "id":9,
+        "name":"Music Book",
+        "title":"feel the vibe of tunes",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718900396~exp=1718903996~hmac=3df7bc6a0ed808ec9ca95249950dc61961e500acc676e8c6d366976f746f95c0&w=740"
+    },
+
+    {
+        "id":10,
+        "name":"The World",
+        "title":"We the human, the part of the world",
+        "price":250,
+        "category":"world",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718900396~exp=1718903996~hmac=3df7bc6a0ed808ec9ca95249950dc61961e500acc676e8c6d366976f746f95c0&w=740"
+    },
+
+    {
+        "id":11,
+        "name":"Travel",
+        "title":"Destination is fixed, but we have to travel",
+        "price":150,
+        "category":"travel",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718900396~exp=1718903996~hmac=3df7bc6a0ed808ec9ca95249950dc61961e500acc676e8c6d366976f746f95c0&w=740"
+    },
+
+    {
+        "id":12,
+        "name":"Food Book",
+        "title":"Taste the dishes",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718900396~exp=1718903996~hmac=3df7bc6a0ed808ec9ca95249950dc61961e500acc676e8c6d366976f746f95c0&w=740"
+    }
+]
